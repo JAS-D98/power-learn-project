@@ -37,7 +37,7 @@ A Python data analysis project tracking global COVID-19 trends including cases, 
 ```bash
 git clone https://github.com/JAS-D98/power-learn-project/tree/main/python-week-8-assignment-Final_Project  
 ```
-2.Run following command on your terminal:
+2. Run following command on your terminal:
 ```python
 python app.py
 ``` 
